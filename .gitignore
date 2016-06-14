@@ -1,0 +1,3 @@
+# Wildcard patterns.
+*.swp
+nimcache/
